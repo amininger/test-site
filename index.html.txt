@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+	<body>
+		<h1>Welcome to my Test Site!</h1>
+		<img src='giraffe.jpg' style='width:400px'>
+		<p>
+		<a href='page2.html'>Go to page 2</a>
+		</p>
+	</body>
+</html>
